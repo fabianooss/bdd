@@ -10,7 +10,6 @@ import bdd.selenium.DriverManager;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;
 import cucumber.api.java.pt.Dado;
-import cucumber.api.java.pt.Quando;
 
 public class BaseSteps extends BaseSelenium {
 

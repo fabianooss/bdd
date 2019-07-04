@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7497145000,
+              "duration": 8687203700,
               "status": "passed"
             },
             "line": 9,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 934761700,
+              "duration": 930726800,
               "status": "passed"
             },
             "line": 10,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 1253568200,
+              "duration": 1181718900,
               "status": "passed"
             },
             "line": 11,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 607824201,
+              "duration": 568617601,
               "status": "passed"
             },
             "line": 12,
@@ -91,16 +91,7 @@
         "after": [
           {
             "result": {
-              "duration": 92900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginSteps.closeBrowser()"
-            }
-          },
-          {
-            "result": {
-              "duration": 4778821800,
+              "duration": 2336089700,
               "status": "passed"
             },
             "match": {
@@ -109,11 +100,20 @@
           },
           {
             "result": {
-              "duration": 99499,
+              "duration": 84801,
               "status": "passed"
             },
             "match": {
               "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 29899,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
             }
           }
         ],
@@ -122,7 +122,7 @@
         "steps": [
           {
             "result": {
-              "duration": 303666999,
+              "duration": 298019499,
               "status": "passed"
             },
             "line": 17,
@@ -134,7 +134,7 @@
           },
           {
             "result": {
-              "duration": 66155800,
+              "duration": 66023199,
               "status": "passed"
             },
             "line": 18,
@@ -156,7 +156,7 @@
           },
           {
             "result": {
-              "duration": 78891600,
+              "duration": 82816600,
               "status": "passed"
             },
             "line": 19,
@@ -178,7 +178,7 @@
           },
           {
             "result": {
-              "duration": 286587000,
+              "duration": 306048300,
               "status": "passed"
             },
             "line": 20,
@@ -190,7 +190,7 @@
           },
           {
             "result": {
-              "duration": 76700700,
+              "duration": 67488000,
               "status": "passed"
             },
             "line": 21,
@@ -219,7 +219,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9562068899,
+              "duration": 6743461799,
               "status": "passed"
             },
             "line": 9,
@@ -231,7 +231,7 @@
           },
           {
             "result": {
-              "duration": 927600001,
+              "duration": 722079300,
               "status": "passed"
             },
             "line": 10,
@@ -249,7 +249,7 @@
           },
           {
             "result": {
-              "duration": 1354997500,
+              "duration": 1141125199,
               "status": "passed"
             },
             "line": 11,
@@ -267,7 +267,7 @@
           },
           {
             "result": {
-              "duration": 14837800,
+              "duration": 12621500,
               "status": "passed"
             },
             "line": 12,
@@ -299,16 +299,7 @@
         "after": [
           {
             "result": {
-              "duration": 53200,
-              "status": "passed"
-            },
-            "match": {
-              "location": "LoginSteps.closeBrowser()"
-            }
-          },
-          {
-            "result": {
-              "duration": 8266355401,
+              "duration": 2478774701,
               "status": "passed"
             },
             "match": {
@@ -317,11 +308,20 @@
           },
           {
             "result": {
-              "duration": 76500,
+              "duration": 71599,
               "status": "passed"
             },
             "match": {
               "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 29100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
             }
           }
         ],
@@ -330,7 +330,7 @@
         "steps": [
           {
             "result": {
-              "duration": 408030799,
+              "duration": 368099601,
               "status": "passed"
             },
             "line": 17,
@@ -342,7 +342,7 @@
           },
           {
             "result": {
-              "duration": 62254100,
+              "duration": 67376400,
               "status": "passed"
             },
             "line": 18,
@@ -364,7 +364,7 @@
           },
           {
             "result": {
-              "duration": 79205799,
+              "duration": 72863100,
               "status": "passed"
             },
             "line": 19,
@@ -386,7 +386,7 @@
           },
           {
             "result": {
-              "duration": 323060400,
+              "duration": 272724000,
               "status": "passed"
             },
             "line": 20,
@@ -398,7 +398,7 @@
           },
           {
             "result": {
-              "duration": 59611700,
+              "duration": 74320900,
               "status": "passed"
             },
             "line": 21,
@@ -439,6 +439,986 @@
         "location": {
           "line": 3,
           "column": 11
+        }
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Mostrar todas as cores",
+        "description": "",
+        "id": "mostrar-todas-as-cores;mostrar-todas-as-cores",
+        "after": [
+          {
+            "result": {
+              "duration": 2792352700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 109300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 31800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 7450811501,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "que sou um usuário logado",
+            "match": {
+              "location": "BaseSteps.login()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 740388999,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "clico no menu \"Engenharia\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Engenharia\"",
+                  "offset": 14
+                }
+              ],
+              "location": "BaseSteps.clico_no_menu(String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1293716000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "clico no submenu \"Cor\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Cor\"",
+                  "offset": 17
+                }
+              ],
+              "location": "BaseSteps.clico_no_submenu(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 234990400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "vejo todas as cores",
+            "match": {
+              "location": "CorSteps.vejo_todas_as_cores()"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Engenharia"
+          }
+        ]
+      }
+    ],
+    "name": "Mostrar todas as cores",
+    "description": "  Eu como usuário, desejo ver todas as cores cadastradas",
+    "id": "mostrar-todas-as-cores",
+    "keyword": "Funcionalidade",
+    "uri": "classpath:bdd/engenharia/mostrar_cores.feature",
+    "tags": [
+      {
+        "name": "@Engenharia",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 9,
+        "name": "Show all products",
+        "description": "",
+        "id": "show-products;show-all-products",
+        "after": [
+          {
+            "result": {
+              "duration": 1881186200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 38799,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 51099,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6536241099,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I am a valid user",
+            "match": {
+              "location": "BaseSteps.loginWithValidUser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 717618800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on menu \"Engenharia\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Engenharia\"",
+                  "offset": 16
+                }
+              ],
+              "location": "BaseSteps.i_click_on_menu(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 768435001,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on submenu \"Produto\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Produto\"",
+                  "offset": 19
+                }
+              ],
+              "location": "BaseSteps.i_click_on_submenu(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 382587699,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I see all products",
+            "match": {
+              "location": "ShowProductSteps.i_see_all_products()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Engenharia"
+          }
+        ]
+      }
+    ],
+    "name": "Show products",
+    "description": "  As an employee of the company I want to use all products ",
+    "id": "show-products",
+    "keyword": "Feature",
+    "uri": "classpath:bdd/engenharia/show_product.feature",
+    "tags": [
+      {
+        "name": "@Engenharia",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 20,
+    "elements": [
+      {
+        "line": 22,
+        "name": "Show all own nfs",
+        "description": "",
+        "id": "show-all-own-nfs;show-all-own-nfs",
+        "after": [
+          {
+            "result": {
+              "duration": 1874096000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 71101,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 30900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6198683200,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I am a valid user",
+            "match": {
+              "location": "BaseSteps.loginWithValidUser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 729434899,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click on menu \"Faturamento\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Faturamento\"",
+                  "offset": 16
+                }
+              ],
+              "location": "BaseSteps.i_click_on_menu(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1274012200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click on submenu \"Nota Fiscal (Própria)\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Nota Fiscal (Própria)\"",
+                  "offset": 19
+                }
+              ],
+              "location": "BaseSteps.i_click_on_submenu(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 749930900,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I sse all own nfs",
+            "match": {
+              "location": "NfsSteps.i_sse_all_own_nfs()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Faturamento"
+          }
+        ]
+      }
+    ],
+    "name": "Show all own nfs",
+    "description": "",
+    "id": "show-all-own-nfs",
+    "keyword": "Feature",
+    "uri": "classpath:bdd/faturamento/show_nf.feature",
+    "tags": [
+      {
+        "name": "@Faturamento",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 11,
+        "name": "Today is or is not Friday",
+        "description": "",
+        "id": "is-it-friday-yet?;today-is-or-is-not-friday;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 36899,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 25901,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 32200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 162999,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "today is \"Friday\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Friday\"",
+                  "offset": 9
+                }
+              ],
+              "location": "IsFridaySteps.today_is(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 167600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I ask whether it\u0027s Friday yet",
+            "match": {
+              "location": "IsFridaySteps.i_ask_whether_it_s_Friday_yet()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 69201,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be told \"TGIF\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"TGIF\"",
+                  "offset": 17
+                }
+              ],
+              "location": "IsFridaySteps.i_should_be_told(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Today is or is not Friday",
+        "description": "",
+        "id": "is-it-friday-yet?;today-is-or-is-not-friday;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 31800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 53500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 24700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 75600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "today is \"Sunday\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sunday\"",
+                  "offset": 9
+                }
+              ],
+              "location": "IsFridaySteps.today_is(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 27899,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I ask whether it\u0027s Friday yet",
+            "match": {
+              "location": "IsFridaySteps.i_ask_whether_it_s_Friday_yet()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 49700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be told \"Nope\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Nope\"",
+                  "offset": 17
+                }
+              ],
+              "location": "IsFridaySteps.i_should_be_told(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Today is or is not Friday",
+        "description": "",
+        "id": "is-it-friday-yet?;today-is-or-is-not-friday;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 30700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 25101,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 24299,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 62000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "today is \"anything else!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"anything else!\"",
+                  "offset": 9
+                }
+              ],
+              "location": "IsFridaySteps.today_is(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 20999,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I ask whether it\u0027s Friday yet",
+            "match": {
+              "location": "IsFridaySteps.i_ask_whether_it_s_Friday_yet()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 38800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be told \"Nope\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Nope\"",
+                  "offset": 17
+                }
+              ],
+              "location": "IsFridaySteps.i_should_be_told(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Is it Friday yet?",
+    "description": "  Everybody wants to know when it\u0027s Friday",
+    "id": "is-it-friday-yet?",
+    "keyword": "Feature",
+    "uri": "classpath:bdd/is_it_friday_yet.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 11,
+        "name": "Login Success and Failure",
+        "description": "",
+        "id": "test-login;login-success-and-failure;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3283754900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 52400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 9000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5696756900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Gestum Application",
+            "match": {
+              "location": "BaseSteps.i_navigate_to_the_Gestum_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 699461101,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I try to login with \"admin\" and \"admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"admin\"",
+                  "offset": 32
+                }
+              ],
+              "location": "LoginSteps.i_try_to_login_with_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 25730500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see page with title \"gestum 6\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"gestum 6\"",
+                  "offset": 29
+                }
+              ],
+              "location": "LoginSteps.i_should_see_page_with_title(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@System"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Login Success and Failure",
+        "description": "",
+        "id": "test-login;login-success-and-failure;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 2097857900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 84600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 9200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5293228800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open Gestum Application",
+            "match": {
+              "location": "BaseSteps.i_navigate_to_the_Gestum_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 663392700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I try to login with \"invalid\" and \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"invalid\"",
+                  "offset": 20
+                },
+                {
+                  "val": "\"1\"",
+                  "offset": 34
+                }
+              ],
+              "location": "LoginSteps.i_try_to_login_with_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4002799,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see page with title \"gestum 6 [login]\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"gestum 6 [login]\"",
+                  "offset": 29
+                }
+              ],
+              "location": "LoginSteps.i_should_see_page_with_title(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@System"
+          }
+        ]
+      }
+    ],
+    "name": "Test Login",
+    "description": "",
+    "id": "test-login",
+    "keyword": "Feature",
+    "uri": "classpath:bdd/login.feature",
+    "tags": [
+      {
+        "name": "@System",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 20,
+    "elements": [
+      {
+        "line": 23,
+        "name": "Show all OPs",
+        "description": "",
+        "id": "show-op;show-all-ops",
+        "after": [
+          {
+            "result": {
+              "duration": 1687161200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowOPSteps.closeBroser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 53699,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ShowProductSteps.closeBrowser()"
+            }
+          },
+          {
+            "result": {
+              "duration": 13700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginSteps.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5873092499,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I am a valid user",
+            "match": {
+              "location": "BaseSteps.loginWithValidUser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 792921501,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click on menu \"PPCP\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"PPCP\"",
+                  "offset": 16
+                }
+              ],
+              "location": "BaseSteps.i_click_on_menu(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1136248699,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I click on submenu \"Ordem de produção\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Ordem de produção\"",
+                  "offset": 19
+                }
+              ],
+              "location": "BaseSteps.i_click_on_submenu(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 392719200,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I see all ops",
+            "match": {
+              "location": "ShowOPSteps.i_see_all_ops()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PPCP"
+          }
+        ]
+      }
+    ],
+    "name": "Show OP",
+    "description": "  Como um usuário do PPCP, eu gostaria de ver todas as OPs",
+    "id": "show-op",
+    "keyword": "Feature",
+    "uri": "classpath:bdd/ppcp/show_op.feature",
+    "tags": [
+      {
+        "name": "@PPCP",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
         }
       }
     ]
