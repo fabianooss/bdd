@@ -79,6 +79,7 @@ font-src * data: blob: 'unsafe-inline';"/>
       "Step 1",
       "Step 2",
       "Step 3",
+      "Step 4",
       "After 0",
       "After 1",
       "After 2",
@@ -87,14 +88,16 @@ font-src * data: blob: 'unsafe-inline';"/>
     "datasets": [
       {
         "data": [
-          5292,
-          740,
-          11,
+          9526,
+          796,
+          1209,
+          769,
           0,
           0,
-          2291
+          2472
         ],
         "backgroundColor": [
+          "rgba(40, 167, 69, 1.000)",
           "rgba(40, 167, 69, 1.000)",
           "rgba(40, 167, 69, 1.000)",
           "rgba(40, 167, 69, 1.000)",
@@ -112,9 +115,11 @@ font-src * data: blob: 'unsafe-inline';"/>
           0,
           0,
           0,
+          0,
           0
         ],
         "backgroundColor": [
+          "rgba(220, 53, 69, 1.000)",
           "rgba(220, 53, 69, 1.000)",
           "rgba(220, 53, 69, 1.000)",
           "rgba(220, 53, 69, 1.000)",
@@ -132,9 +137,11 @@ font-src * data: blob: 'unsafe-inline';"/>
           0,
           0,
           0,
+          0,
           0
         ],
         "backgroundColor": [
+          "rgba(255, 193, 7, 1.000)",
           "rgba(255, 193, 7, 1.000)",
           "rgba(255, 193, 7, 1.000)",
           "rgba(255, 193, 7, 1.000)",
@@ -238,14 +245,14 @@ font-src * data: blob: 'unsafe-inline';"/>
                     <li class="nav-item">
                     </li>
             </ul>
-            <span class="text-light">2019-07-04 10:43:36</span>
+            <span class="text-light">2019-07-04 14:44:13</span>
         </div>
     </nav>
     <main role="main" class="container">
         <div class="cluecumber-template">
             <div class="pb-2 mt-4 mb-2 border-bottom">
-                        <h5><a href="pages/feature-scenarios/feature_1.html">Test Login</a></h5>
-                    <h3>Login Success and Failure</h3>
+                        <h5><a href="pages/feature-scenarios/feature_3.html">Show all own nfs</a></h5>
+                    <h3>Show all own nfs</h3>
             </div>
 
     <div class="row">
@@ -263,9 +270,9 @@ font-src * data: blob: 'unsafe-inline';"/>
         <div class="card h-100">
                 <div class="card-header">Scenario Info</div>
             <div class="card-body">
-            <li class="list-group-item">Test Runtime:<br>0m 08s 335ms</li>
+            <li class="list-group-item">Test Runtime:<br>0m 14s 774ms</li>
             <li class="list-group-item">
-                    <a href="pages/tag-scenarios/tag_tagSystem.html">@tagSystem</a>            </li>
+                    <a href="pages/tag-scenarios/tag_tagFaturamento.html">@tagFaturamento</a>            </li>
             </div>
         </div>
     </div>
@@ -275,11 +282,11 @@ font-src * data: blob: 'unsafe-inline';"/>
             <div class="card-body">
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">
-                    3         Steps
+                    4         Steps
 
                 </li>
                 <li class="list-group-item">
-                    3 passed     <i class="color-passed cluecumber-icon icon-passed" data-toggle="tooltip"
+                    4 passed     <i class="color-passed cluecumber-icon icon-passed" data-toggle="tooltip"
        title="passed"><span style="display:none">passed</span></i>
 
                     <br>
@@ -313,12 +320,12 @@ font-src * data: blob: 'unsafe-inline';"/>
                         <div class="row row_passed">
                             <div class="col-1 text-left small">1.</div>
                             <div class="col-8 text-left">
-                                <span data-toggle="tooltip" title="BaseSteps.i_navigate_to_the_Gestum_application()">
-                                    <a href="pages/step-scenarios/step_823672250.html">Given  I open Gestum Application</a>
+                                <span data-toggle="tooltip" title="BaseSteps.loginWithValidUser()">
+                                    <a href="pages/step-scenarios/step_260732464.html">Given  I am a valid user</a>
                                 </span>
                             </div>
                             <div class="col-2 text-left small">
-                                0m 05s 292ms
+                                0m 09s 526ms
                             </div>
                             <div class="col-1 text-right">
     <i class="color-passed cluecumber-icon icon-passed" data-toggle="tooltip"
@@ -331,12 +338,12 @@ font-src * data: blob: 'unsafe-inline';"/>
                         <div class="row row_passed">
                             <div class="col-1 text-left small">2.</div>
                             <div class="col-8 text-left">
-                                <span data-toggle="tooltip" title="LoginSteps.i_try_to_login_with_and(String,String)">
-                                    <a href="pages/step-scenarios/step_307891286.html">When  I try to login with <strong>"invalid"</strong> and <strong>"1"</strong></a>
+                                <span data-toggle="tooltip" title="BaseSteps.i_click_on_menu(String)">
+                                    <a href="pages/step-scenarios/step_2132069001.html">When  I click on menu <strong>"Faturamento"</strong></a>
                                 </span>
                             </div>
                             <div class="col-2 text-left small">
-                                0m 00s 740ms
+                                0m 00s 796ms
                             </div>
                             <div class="col-1 text-right">
     <i class="color-passed cluecumber-icon icon-passed" data-toggle="tooltip"
@@ -349,12 +356,30 @@ font-src * data: blob: 'unsafe-inline';"/>
                         <div class="row row_passed">
                             <div class="col-1 text-left small">3.</div>
                             <div class="col-8 text-left">
-                                <span data-toggle="tooltip" title="LoginSteps.i_should_see_page_with_title(String)">
-                                    <a href="pages/step-scenarios/step_1054526732.html">Then  I should see page with title <strong>"gestum 6 [login]"</strong></a>
+                                <span data-toggle="tooltip" title="BaseSteps.i_click_on_submenu(String)">
+                                    <a href="pages/step-scenarios/step_01403551565.html">And  I click on submenu <strong>"Nota Fiscal (Própria)"</strong></a>
                                 </span>
                             </div>
                             <div class="col-2 text-left small">
-                                0m 00s 011ms
+                                0m 01s 209ms
+                            </div>
+                            <div class="col-1 text-right">
+    <i class="color-passed cluecumber-icon icon-passed" data-toggle="tooltip"
+       title="passed"><span style="display:none">passed</span></i>
+                            </div>
+
+                        </div>
+
+
+                        <div class="row row_passed">
+                            <div class="col-1 text-left small">4.</div>
+                            <div class="col-8 text-left">
+                                <span data-toggle="tooltip" title="NfsSteps.i_sse_all_own_nfs()">
+                                    <a href="pages/step-scenarios/step_01366972590.html">Then  I sse all own nfs</a>
+                                </span>
+                            </div>
+                            <div class="col-2 text-left small">
+                                0m 00s 769ms
                             </div>
                             <div class="col-1 text-right">
     <i class="color-passed cluecumber-icon icon-passed" data-toggle="tooltip"
@@ -376,7 +401,7 @@ font-src * data: blob: 'unsafe-inline';"/>
                             <div class="row row_passed">
                                 <div class="col-1 text-left small">1.</div>
                                 <div class="col-8 text-left">
-                                    <i>LoginSteps.closeBrowser()</i>
+                                    <i>ShowProductSteps.closeBrowser()</i>
                                 </div>
                                 <div class="col-2 text-left small">
                                     0m 00s 000ms
@@ -389,7 +414,7 @@ font-src * data: blob: 'unsafe-inline';"/>
                             <div class="row row_passed">
                                 <div class="col-1 text-left small">2.</div>
                                 <div class="col-8 text-left">
-                                    <i>ShowProductSteps.closeBrowser()</i>
+                                    <i>LoginSteps.closeBrowser()</i>
                                 </div>
                                 <div class="col-2 text-left small">
                                     0m 00s 000ms
@@ -405,7 +430,7 @@ font-src * data: blob: 'unsafe-inline';"/>
                                     <i>ShowOPSteps.closeBroser()</i>
                                 </div>
                                 <div class="col-2 text-left small">
-                                    0m 02s 291ms
+                                    0m 02s 472ms
                                 </div>
                                 <div class="col-1 text-right">
     <i class="color-passed cluecumber-icon icon-passed" data-toggle="tooltip"
@@ -423,7 +448,7 @@ font-src * data: blob: 'unsafe-inline';"/>
 
 <footer class="footer navbar-dark">
     <div class="container-fluid">
-        <span>Cluecumber Report Plugin version 2.1.0 - Report generated on 2019-07-04 10:43:36.</span>
+        <span>Cluecumber Report Plugin version 2.1.0 - Report generated on 2019-07-04 14:44:13.</span>
     </div>
 </footer>    </body>
     </html>

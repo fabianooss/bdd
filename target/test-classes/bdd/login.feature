@@ -1,4 +1,4 @@
-@tagSystem
+@System
 Feature: Test Login
 
   Scenario Outline: Login Success and Failure

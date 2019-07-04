@@ -1,3 +1,8 @@
+C:\temp\bdd\bdd\src\test\java\bdd\cadastro\NovoPaisSteps.java
+C:\temp\bdd\bdd\src\test\java\bdd\bd\PaisService.java
+C:\temp\bdd\bdd\src\test\java\bdd\engenharia\CorSteps.java
+C:\temp\bdd\bdd\src\test\java\bdd\selenium\DriverManager.java
+C:\temp\bdd\bdd\src\test\java\bdd\bd\Conexao.java
 C:\temp\bdd\bdd\src\test\java\bdd\RunCucumberTest.java
 C:\temp\bdd\bdd\src\test\java\bdd\LoginSteps.java
 C:\temp\bdd\bdd\src\test\java\bdd\ppcp\ShowOPSteps.java
@@ -5,6 +10,4 @@ C:\temp\bdd\bdd\src\test\java\bdd\engenharia\ShowProductSteps.java
 C:\temp\bdd\bdd\src\test\java\bdd\selenium\BaseSelenium.java
 C:\temp\bdd\bdd\src\test\java\bdd\IsFridaySteps.java
 C:\temp\bdd\bdd\src\test\java\bdd\BaseSteps.java
-C:\temp\bdd\bdd\src\test\java\bdd\engenharia\CorSteps.java
-C:\temp\bdd\bdd\src\test\java\bdd\selenium\DriverManager.java
 C:\temp\bdd\bdd\src\test\java\bdd\faturamento\NfsSteps.java
