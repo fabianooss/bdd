@@ -1,11 +1,11 @@
+bdd\RunCucumberTest.class
+bdd\IsFridaySteps.class
+bdd\IsItFriday.class
+bdd\BaseSteps.class
 bdd\selenium\DriverManager.class
 bdd\engenharia\ShowProductSteps.class
 bdd\ppcp\ShowOPSteps.class
-bdd\RunCucumberTest.class
 bdd\LoginSteps$1.class
-bdd\IsFridaySteps.class
-bdd\IsItFriday.class
 bdd\LoginSteps.class
-bdd\BaseSteps.class
 bdd\faturamento\NfsSteps.class
 bdd\selenium\BaseSelenium.class

@@ -27,7 +27,7 @@ public class ShowProductSteps extends BaseSelenium {
 		
 		List<WebElement> colunas = driver.findElements(By.className("ag-header-cell-text"));
 		
-		Assert.assertEquals("Quantidade colunas visíveis", 7, colunas.size());
+		Assert.assertEquals("Quantidade colunas visíveis", 8, colunas.size());
 		
 		Assert.assertEquals("Coluna Código", "Código", colunas.get(0).getText());
 		Assert.assertEquals("Coluna Código alternativo", "Código alternativo", colunas.get(1).getText());
